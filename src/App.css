@@ -1,0 +1,35 @@
+.button:active {
+    border-style: outset;
+}
+
+.register {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.box {
+    border: 1px solid #dfdfdf;
+    background-color: #fff;
+    margin-top: 100px;
+    width: 400px;
+    border-radius: 5px;
+}
+
+.card-body {
+    display: flex;
+}
+
+.img-car-container {
+    width: 100px;
+}
+
+.shopping {
+    display: flex;
+}
+
+.car-products {
+    width: 60%;
+}
